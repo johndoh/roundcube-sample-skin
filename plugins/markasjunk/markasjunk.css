@@ -1,0 +1,7 @@
+.menu a.junk::before {
+    content: "\f165";
+}
+
+.menu a.notjunk::before {
+    content: "\f164";
+}
